@@ -60,9 +60,11 @@ h2{
 
 /*REGISTER*/
 
-body{
-    background-image:(url(BG2.jpg))
-
+#bindex3{
+    background-image:url(BG2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
 }
 
 #register{
