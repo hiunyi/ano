@@ -30,11 +30,12 @@ body{
 
 body{
     background-image:(url(BG2.jpg))
+
 }
 
 #log{
     border: 1px solid white;
-    background-color: transparent;
+
     border-radius: 20px;
     height: 30%;
     width: 500px;
@@ -47,7 +48,7 @@ button{
     float: right;
 }
 h2{
-    color: white;
+    color: rgb(5, 5, 5);
     text-align: center;
 }
 
@@ -56,7 +57,7 @@ h2{
 
 body{
     background-image:(url(BG2.jpg))
-    
+
 }
 
 #register{
