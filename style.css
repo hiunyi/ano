@@ -20,8 +20,11 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-body{
-    background-image:(url(BG2.jpg))
+#bindex{
+    background-image: url(BG2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
 
 }
 
