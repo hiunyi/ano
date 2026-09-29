@@ -1,0 +1,82 @@
+/*INDEX*/
+
+.card {
+    padding: 20px;
+    margin: 5px;
+    
+}
+.blogrow {
+    
+    background-color: rgb(255, 181, 181);
+    border-radius: 60px;
+    font-size: 60px;
+    margin-top: 20px;
+    
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-image:(url(BG2.jpg))
+
+}
+
+
+/*LOGIN*/
+
+body{
+    background-image:(url(BG2.jpg))
+}
+
+#log{
+    border: 1px solid white;
+    background-color: transparent;
+    border-radius: 20px;
+    height: 30%;
+    width: 500px;
+    margin: auto;
+    margin-top: 20%;
+    padding: 50px;
+}
+
+button{
+    float: right;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+
+
+/*REGISTER*/
+
+body{
+    background-image:(url(BG2.jpg))
+    
+}
+
+#register{
+    border: 1px solid rgb(255, 254, 254);
+    
+    border-radius: 20px;
+    height: 30%;
+    width: 500px;
+    margin: auto;
+    margin-top: 20%;
+    padding: 50px;
+}
+button{
+    float: right;
+}
+#chec{
+    padding-right: 10px;
+}
+h2{
+    color: rgb(5, 5, 5);
+    text-align: center;
+}
+
