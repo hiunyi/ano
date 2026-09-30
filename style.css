@@ -27,7 +27,12 @@
     height: 100vh;
 
 }
-
+.card-text{
+    font-size: 15px;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
 /*LOGIN*/
 
@@ -61,7 +66,7 @@ h2{
 /*REGISTER*/
 
 #bindex3{
-    background-image:url(BG4.jpg);
+    background-image:url(326159.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -84,7 +89,7 @@ button{
     padding-right: 10px;
 }
 h2{
-    color: rgb(5, 5, 5);
+    color: rgb(247, 245, 245);
     text-align: center;
 }
 
@@ -92,7 +97,7 @@ h2{
 /*POST*/
 
 #bindex4{
-    background-image: url(BG5.jpg);
+    background-image: url(302851.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -119,4 +124,25 @@ li{
     font-size: 30px;
     font-style: italic;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*POST NEW*/
+#bindex5{
+    background-image: url(BG5.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+#foot{
+    margin-top: 50px;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#container{
+    border: 1px solid rgb(3, 2, 2);
+    border-radius: 20px;
+    width: 100px;
+    margin: auto;
 }
